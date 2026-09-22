@@ -1,5 +1,5 @@
 # 211
 welcome to angie's cart 211's repostory.
 
-##projects
+## projects
 [intro project]()
