@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 25px;
+}
+
+h2 {
+    font-size: 3em;
+}
+a {
+    text-decoration: none;
+    color: #f26dbd;
+    font-size: 2em;
+    font-weight: bold;
+    display: block;
+}
+nav {
+    width: 20%;
+    float: left;
+}
+
+#wrapper {
+    width: 80%;
+    float: right;
+}
+
+/* ID is for java script while class is css for */
+
+.bookgrid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+/* number of auto = number of collumns*/
+    
+}
+
+figcaption {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
