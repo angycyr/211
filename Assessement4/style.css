@@ -40,5 +40,5 @@ figcaption {
 }
 
 @media (max-width:767px){
-    
+    h2 {color: blueviolet;}
 }
